@@ -1,0 +1,16 @@
+
+.classpath
+
+.project
+
+.settings/org.eclipse.jdt.core.prefs
+
+.settings/org.eclipse.m2e.core.prefs
+
+target/classes/akka/tutorial/first/java/App$1.class
+
+target/classes/akka/tutorial/first/java/App.class
+
+target/classes/akka/tutorial/first/java/Cell.class
+
+target/test-classes/akka/tutorial/first/java/CellTest.class
